@@ -1,0 +1,17 @@
+ 
+
+{shop_url}
+
+Buna {firstname} {lastname},
+
+Comanda nr. {order_name} - Comanda anulata
+
+Comanda ta cu codul {order_name} la {shop_name} a fost anulata de comerciant.
+
+Intra in contul tau de client pentru a afla mai multe.
+
+Daca ai un cont de oaspete, poti urmari comanda in sectiunea [Urmarirea comenzii fara cont]({guest_tracking_url}) din magazinul nostru.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)
