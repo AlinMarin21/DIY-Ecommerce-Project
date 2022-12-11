@@ -1,0 +1,18 @@
+1670781732
+s:3536:"HTTP/1.1 200 OK
+Server: nginx
+Date: Sun, 11 Dec 2022 16:02:11 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Vary: Accept-Encoding
+X-XSS-Protection: 1; mode=block;
+X-Content-Type-Options: nosniff
+Referrer-Policy: strict-origin-when-cross-origin
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Feature-Policy: accelerometer 'self'; ambient-light-sensor 'self'; autoplay 'self'; camera 'self'; encrypted-media 'self'; fullscreen 'self'; geolocation 'self'; gyroscope 'self'; magnetometer 'self'; microphone 'self'; midi 'self'; payment 'self'; picture-in-picture *; speaker 'self'; sync-xhr *; usb 'self'; vr 'self';
+X-Permitted-Cross-Domain-Policies: none
+Expect-CT: enforce, max-age=604800
+X-Backend-Server: vm2731.jn-hebergement.com
+
+{"modules":[{"id":"23864","name":"ps_checkpayment","displayName":"Payments by check","categoryName":"Other Payment Methods","description":"Display contact details blocks to make it easy for customers to pay by check on your store","author":"PrestaShop","url":"https:\/\/addons.prestashop.com\/en\/other-payment-methods\/23864-payments-by-check.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-EN&utm_content=download","serviceUrl":"","img":"https:\/\/medias1.prestastore.com\/img\/pico\/23864.jpg","fullDescription":"Display contact details blocks to make it easy for customers to pay by check on your store.","additionalDescription":"Use this native module to:\r\n<ul>\r\n\t<li><strong>Facilitate shopping: <\/strong>create an easy purchasing environment for your clients, allow to make them feel like going back.<\/li>\r\n\t<li><strong>Allow anyone to buy your products: <\/strong>allowing payments by check help people without credit card to purchase your items.<\/li>\r\n<\/ul>\r\n","features":"This module allows you to accept payments by check. Fill the form in the configuration page with the payee and address needed for the customers to write the check and send it to you.<br \/>\r\n<br \/>\r\nIf the client chooses this payment method, the order status will change to &#39;Waiting for payment&#39;. You will need to manually confirm the order as soon as you receive a check.<br \/>\r\n<br \/>\r\nIt appears twice during the checkout: in the &rsquo;Payment&rsquo; section, then in the order confirmation page.<br \/>\r\n<br \/>\r\nNote that you can configure your own order of priority for the means of payment selected for your store, just go in the &lsquo;Positions&rsquo; section of your back office.","customer_benefits":"","demo_video":"","version":"2.0.6","last_update":"2022-12-10 12:58:37","compatibility":{"from":"1.7.6.0","to":"8.0.0"},"price":{"EUR":0,"USD":0,"GBP":0},"badges":[{"label":"Made by PrestaShop","img":"https:\/\/medias2.prestastore.com\/themes\/prestastore\/img\/front\/sprites\/badges\/made-by-prestashop.png"}],"cover":{"small":"https:\/\/addons.prestashop.com\/1271889-pprod\/payments-by-check.jpg","big":"https:\/\/addons.prestashop.com\/1271889-pbig\/payments-by-check.jpg"},"pictures":{"small":["https:\/\/addons.prestashop.com\/1271887-pprod\/payments-by-check.jpg","https:\/\/addons.prestashop.com\/1271888-pprod\/payments-by-check.jpg","https:\/\/addons.prestashop.com\/1271890-pprod\/payments-by-check.jpg"],"big":["https:\/\/addons.prestashop.com\/1271887-pbig\/payments-by-check.jpg","https:\/\/addons.prestashop.com\/1271888-pbig\/payments-by-check.jpg","https:\/\/addons.prestashop.com\/1271890-pbig\/payments-by-check.jpg"]}}]}";
